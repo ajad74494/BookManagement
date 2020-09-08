@@ -13,9 +13,10 @@ import java.util.concurrent.TimeUnit;
  
 import javax.swing.*;
 import net.proteanit.sql.DbUtils;
- 
+/**
+ * @author abul.kalam
+ */
 public class main {
-     
     public static class ex{
         public static int days=0;
             }
